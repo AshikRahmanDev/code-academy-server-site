@@ -1,7 +1,7 @@
 [
   {
     "id": "6358c396f99cac080321118a",
-    "picture": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fkeygenactivation.com%2Fwhat-is-full-stack-development-and-why-is-it-important%2F&psig=AOvVaw2yjfhFmrK5DAbea4BTvGe4&ust=1666848103882000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJCOxJuT_foCFQAAAAAdAAAAABAJ",
+    "picture": "https://qph.cf2.quoracdn.net/main-qimg-f9514ea83444ef5dfded019d798ca48b-lq",
     "price": 15.99,
     "time": 5,
     "rating": 4,
@@ -18,9 +18,9 @@
 
   {
     "id": "6358c396494354e73856aeb7",
-    "picture": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcontent.techgig.com%2Ftechnology%2F5-myths-around-python-programming-language-that-every-programmer-must-know%2Farticleshow%2F79386213.cms&psig=AOvVaw07O1l25Tdtk4jzq0SJN-OJ&ust=1666848487993000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCIDFutKU_foCFQAAAAAdAAAAABAE",
+    "picture": "https://www.freecodecamp.org/news/content/images/2022/02/Banner-10.png",
     "price": 99.99,
-    "time": 5,
+    "time": 4,
     "rating": 4,
     "course": "Python",
     "title": "Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together. ",
@@ -35,7 +35,7 @@
     "id": "6358c396b85983199e1feb25",
     "picture": "https://computersolve.com/wp-content/uploads/2022/03/What-is-javascript.png",
     "price": 99.99,
-    "time": 5,
+    "time": 6,
     "rating": 4,
     "course": "JavaScript",
     "title": "Learn JavaScript from scratch and in great detail - from beginner to advanced. All core features and concepts you need to know in modern JavaScript development. Everything you need to become a JavaScript expert and apply for JavaScript jobs. Project-driven learning with plenty of examples. All about variables, functions, objects and arrays.",
@@ -50,9 +50,9 @@
     "id": "6358c396daf21d2c460c6d36",
     "picture": "https://edraak-marketing-uploads.edraak.org/Courses/sa.png",
     "price": 84.99,
-    "time": 5,
+    "time": 10,
     "rating": 5,
-    "course": "C#",
+    "course": "C# (Programming)",
     "title": "Complete C# Masterclass",
     "details": "Master C# Programming with a hands-on approach focused on getting you professional C# experience you can use to GET A JOB! Built a 3D Marvel Contest of Champions fighting game in Unity using C# with 4 playable characters and enemy AI logic!Understand HOW to implement all of the major search and sort algorithms in computer science, and WHEN to use each approach.",
     "overview": [
@@ -68,7 +68,7 @@
     "price": 84.99,
     "time": 5,
     "rating": 4,
-    "course": "PHP",
+    "course": "PHP (Programming)",
     "title": "PHP for Beginners - Become a PHP Master - CMS Project",
     "details": "You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla. You will learn how to use Databases. You will learn MySQL. Object Oriented Programming. You will learn how to launch your application online. How to use forms to submit data to databases",
     "overview": [
@@ -82,7 +82,7 @@
     "id": "6358c3967c55e757e7dee694",
     "picture": "https://sistemasgeniales.com/wp-content/uploads/2022/01/reactjs.jpg",
     "price": 29.99,
-    "time": 5,
+    "time": 2,
     "rating": 4,
     "course": "React JS",
     "title": "React JS Web Development - The Essentials Bootcamp",
