@@ -1,0 +1,97 @@
+[
+  {
+    "id": "6358c396f99cac080321118a",
+    "picture": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fkeygenactivation.com%2Fwhat-is-full-stack-development-and-why-is-it-important%2F&psig=AOvVaw2yjfhFmrK5DAbea4BTvGe4&ust=1666848103882000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJCOxJuT_foCFQAAAAAdAAAAABAJ",
+    "price": 15.99,
+    "time": 5,
+    "rating": 4,
+    "course": "Web Development",
+    "title": "The Complete 2022 Web Development Bootcamp",
+    "details": "Web development is the building and maintenance of websites; it's the work that happens behind the scenes to make a website look great, work fast and perform well with a seamless user experience. Web developers, or 'devs', do this by using a variety of coding languages.",
+    "overview": [
+      "You will build 16 web development projects for your portfolio, ready to apply for junior developer jobs.",
+      "You will learn the latest technologies, including Javascript, React, Node and even Web3 development.",
+      "You will master both front and back-end development, becoming a full-stack developer by the end of the course.",
+      "After the course you will be able to build ANY website you want."
+    ]
+  },
+
+  {
+    "id": "6358c396494354e73856aeb7",
+    "picture": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcontent.techgig.com%2Ftechnology%2F5-myths-around-python-programming-language-that-every-programmer-must-know%2Farticleshow%2F79386213.cms&psig=AOvVaw07O1l25Tdtk4jzq0SJN-OJ&ust=1666848487993000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCIDFutKU_foCFQAAAAAdAAAAABAE",
+    "price": 99.99,
+    "time": 5,
+    "rating": 4,
+    "course": "Python",
+    "title": "Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together. ",
+    "overview": [
+      "You will master the Python programming language by building 100 unique projects over 100 days.",
+      "You will learn automation, game, app and web development, data science and machine learning all using Python.",
+      "You will be able to program in Python professionally",
+      "You will learn Selenium, Beautiful Soup, Request, Flask, Pandas, NumPy, Scikit Learn, Plotly, and Matplotlib."
+    ]
+  },
+  {
+    "id": "6358c396b85983199e1feb25",
+    "picture": "https://computersolve.com/wp-content/uploads/2022/03/What-is-javascript.png",
+    "price": 99.99,
+    "time": 5,
+    "rating": 4,
+    "course": "JavaScript",
+    "title": "Learn JavaScript from scratch and in great detail - from beginner to advanced. All core features and concepts you need to know in modern JavaScript development. Everything you need to become a JavaScript expert and apply for JavaScript jobs. Project-driven learning with plenty of examples. All about variables, functions, objects and arrays.",
+    "overview": [
+      "Become an advanced, confident, and modern JavaScript developer from scratch",
+      "Build 6 beautiful real-world projects for your portfolio (not boring toy apps)",
+      "Become job-ready by understanding how JavaScript really works behind the scenes",
+      "Modern ES6+ from the beginning: arrow functions, destructuring, spread operator, optional chaining (ES2020), etc."
+    ]
+  },
+  {
+    "id": "6358c396daf21d2c460c6d36",
+    "picture": "https://edraak-marketing-uploads.edraak.org/Courses/sa.png",
+    "price": 84.99,
+    "time": 5,
+    "rating": 5,
+    "course": "C#",
+    "title": "Complete C# Masterclass",
+    "details": "Master C# Programming with a hands-on approach focused on getting you professional C# experience you can use to GET A JOB! Built a 3D Marvel Contest of Champions fighting game in Unity using C# with 4 playable characters and enemy AI logic!Understand HOW to implement all of the major search and sort algorithms in computer science, and WHEN to use each approach.",
+    "overview": [
+      "Learn the fundamentals of programming using C#",
+      "Learn how to use variables, methods, loops, conditions",
+      "Fully understand how OOP (object oriented Programming) works and how to use it.",
+      "Build beautiful GUIs (Graphical User Interfaces) with WPF (Windows Presentation Foundation)"
+    ]
+  },
+  {
+    "id": "6358c39661337d21aae102cb",
+    "picture": "https://www.biz4group.com/images/why-choose-php-programming-language-for-web-development.jpg",
+    "price": 84.99,
+    "time": 5,
+    "rating": 4,
+    "course": "PHP",
+    "title": "PHP for Beginners - Become a PHP Master - CMS Project",
+    "details": "You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla. You will learn how to use Databases. You will learn MySQL. Object Oriented Programming. You will learn how to launch your application online. How to use forms to submit data to databases",
+    "overview": [
+      "Learn how to create a dynamic website using the most popular website programming language",
+      "Build a working CMS in PHP and MySQL from scratch",
+      "Learn how to secure your code",
+      "Learn how to write reusable, more maintainable code using programming standards"
+    ]
+  },
+  {
+    "id": "6358c3967c55e757e7dee694",
+    "picture": "https://sistemasgeniales.com/wp-content/uploads/2022/01/reactjs.jpg",
+    "price": 29.99,
+    "time": 5,
+    "rating": 4,
+    "course": "React JS",
+    "title": "React JS Web Development - The Essentials Bootcamp",
+    "details": "Learn React the right way and learn best practices, from an engineer with 5+ years of industry experience. Modern Redux in 2022-2023: modern syntax and best practices. Explore the React engine, and learn how it works under the hood to better understand the Virtual DOM, state, props, etc. Learn React in 2022-2023 the right way and learn best practices, from an engineer with 5+ years of industry experience.",
+    "overview": [
+      "Modern Redux in 2022-2023: modern syntax and best practices.",
+      "Modern React in 2022-2023: createStore, functional components, etc.",
+      "Learn React the right way and learn best practices, from an engineer with 5+ years of industry experience.",
+      "Access 3+ hours of in-depth JavaScript material to hone your JS skills."
+    ]
+  }
+]
